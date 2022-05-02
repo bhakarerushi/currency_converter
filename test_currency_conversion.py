@@ -22,34 +22,7 @@ class TestCurrencyConversion(unittest.TestCase):
         expected = pd.DataFrame
         self.assertEqual(actual, expected)
 
-# This is test comment
 
-# This is test comment
-
-# This is test comment
-
-# This is test comment
-
-# This is test comment
-
-
-
-
-        
-#this is remote coment
-#this is remote coment
-#this is remote coment
-
-#this is remote coment
-#this is remote coment
-
-#this is remote coment
-#this is remote coment
-#this is remote coment
-
-#this is remote coment
-
-#this is remote coment
 
 
 
