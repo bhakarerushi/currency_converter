@@ -21,6 +21,20 @@ class TestCurrencyConversion(unittest.TestCase):
         actual = type(get_data('M.N.I8.W1.S1.S1.T.N.FA.F.F7.T.GBP._T.T.N','EUR'))
         expected = pd.DataFrame
         self.assertEqual(actual, expected)
+
+# This is test comment
+
+# This is test comment
+
+# This is test comment
+
+# This is test comment
+
+# This is test comment
+
+
+
+
         
 
 
